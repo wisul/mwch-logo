@@ -1,6 +1,6 @@
 {
     "name": "Mizutsuki",
-    "description": "A Telegram Bot To Create Cool Logos, Powered By Mizutsuki",
+    "description": "A Telegram Bot To Create Cool Logos, Powered wisula and chathush",
     "keywords": [
         "telegram",
         "logo maker",
@@ -9,7 +9,7 @@
     ],
     "repository": "https://github.com/chathush999/c-logo-maker-bot",
     "website": "https://t.me/Mizutsuki_update",
-    "success_url": "http://t.me/Mizutsuki_bot",
+    "success_url": "http://t.me /wisula4",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org"
