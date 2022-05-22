@@ -1,1 +1,74 @@
-a
+
+1
+{
+2
+    "name": "Mizutsuki",
+3
+    "description": "A Telegram Bot To Create Cool Logos, Powered By Mizutsuki",
+4
+    "keywords": [
+5
+        "telegram",
+6
+        "logo maker",
+7
+        "logo",
+8
+        "bot"
+9
+    ],
+10
+    "repository": "https://github.com/chathush999/c-logo-maker-bot",
+11
+    "website": "https://t.me/Mizutsuki_update",
+12
+    "success_url": "http://t.me/Mizutsuki_bot",
+13
+    "env": {
+14
+        "API_ID": {
+15
+            "description": "Get this value from my.telegram.org"
+16
+        },
+17
+        "API_HASH": {
+18
+            "description": "Get this value from my.telegram.org"
+19
+        },
+20
+        "BOT_TOKEN": {
+21
+            "description": "Get this from @BotFather"
+22
+        }
+23
+    },
+24
+    "buildpacks": [
+25
+        { 
+26
+            "url": "heroku/python"
+27
+        }
+28
+    ],
+29
+    "formation": {
+30
+        "worker": {
+31
+            "quantity": 1,
+32
+            "size": "free"
+33
+        }
+34
+    }
+35
+}
+36
+​
+
