@@ -3,6 +3,9 @@
 
 <p align="center"><a href="https://github.com/Tellybots/Uploader-Bot"><img src="https://telegra.ph/file/986bc6640b9bbce71ad15.jpg"></a></p>
 
+### 🔥Deploy to heroku🔥
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/wisul/mwch-logo)
+
 
 ### ♻️ Features
 * 35+ Stylish & Cool Fonts
