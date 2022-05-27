@@ -8,7 +8,7 @@ from pyrogram.errors import FloodWait
 
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message, CallbackQuery
 
-from main.logo import generate_logo
+from logo import generate_logo
 
 START = """
 
