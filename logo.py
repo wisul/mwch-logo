@@ -1,4 +1,4 @@
-from main import LOGO_API_URL1, LOGO_API_URL2, session
+from config import LOGO_API_URL1, LOGO_API_URL2, session
 from typing import Optional
 import aiohttp
 
