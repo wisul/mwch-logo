@@ -1,4 +1,4 @@
-# Logo maker bot by wisula 
+#❖ʟᴏɢᴏ ᴍᴀᴋᴇʀ ʙᴏᴛ ʙʏ ᴍᴇᴛʜɪɴᴅᴜ ᴡɪsᴜʟᴀ❖
 
 
 <p align="center"><a href="https://github.com/Tellybots/Uploader-Bot"><img src="https://telegra.ph/file/986bc6640b9bbce71ad15.jpg"></a></p>
